@@ -1,0 +1,22 @@
+# File: configs/model_config.yaml
+
+data:
+  raw:
+    train: "data/raw/train.csv"
+    test: "data/raw/test.csv"
+  processed:
+    output: "data/processed/processed_data.csv"
+
+model:
+  type: "logistic_regression"
+  parameters:
+    C: 1.0
+    max_iter: 100
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+    - "roc_auc"
