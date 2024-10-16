@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PCS/Desktop/mlops/Mlops-Customer-Prediction/mlruns/0/fbeaef8485c040babc0d060c3cf0fef3/artifacts
+end_time: 1729095013749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbeaef8485c040babc0d060c3cf0fef3
+run_name: respected-cod-308
+run_uuid: fbeaef8485c040babc0d060c3cf0fef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729095010364
+status: 3
+tags: []
+user_id: PCS

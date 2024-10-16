@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PCS/Desktop/mlops/Mlops-Customer-Prediction/mlruns/0/d5b5a55f74bc4d4ca5f412e2f6e5a18b/artifacts
+end_time: 1729092782213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b5a55f74bc4d4ca5f412e2f6e5a18b
+run_name: zealous-cub-608
+run_uuid: d5b5a55f74bc4d4ca5f412e2f6e5a18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729092779319
+status: 3
+tags: []
+user_id: PCS

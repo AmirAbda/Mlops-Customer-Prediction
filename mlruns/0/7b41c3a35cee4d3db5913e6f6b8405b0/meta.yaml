@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PCS/Desktop/mlops/Mlops-Customer-Prediction/mlruns/0/7b41c3a35cee4d3db5913e6f6b8405b0/artifacts
+end_time: 1729092793376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b41c3a35cee4d3db5913e6f6b8405b0
+run_name: loud-skink-715
+run_uuid: 7b41c3a35cee4d3db5913e6f6b8405b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729092783003
+status: 3
+tags: []
+user_id: PCS
